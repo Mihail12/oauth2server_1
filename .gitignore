@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+!passport/media/
+passport/media/*
+/static/
+passport/settings/settings_dev.py
+celerybeat-schedule
+celerybeat.pid
+*.sqlite3
